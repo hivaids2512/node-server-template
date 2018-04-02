@@ -1,4 +1,4 @@
-# Nde Server Template
+# Node Server Template
 
 A very simple nodejs server for starting your project quickly
 
@@ -9,30 +9,6 @@ Before going futher, lets setup the project evironment variables in:
 ```
 ./app/config/env
 ```
-## Start dev server
-
-```
-npm run dev
-```
-
-Dev server will restart automatically when code changes detected
-
-## Running your tests
-
-```
-npm run test
-```
-
-Test your application with Mocha + Chai + Istanbul
-
-## Running in production
-
-```
-npm run prod
-```
-Run your application with foreverJs
-
-Test your application with Mocha + Chai + Istanbul
 
 ## Running in production
 
@@ -65,3 +41,26 @@ Run your application with foreverJs
     |   ├── module 2    
     |   └── module 3    
     └── ...
+
+## Start dev server
+
+```
+npm run dev
+```
+
+Dev server will restart automatically when code changes detected
+
+## Running your tests
+
+```
+npm run test
+```
+
+Test your application with Mocha + Chai + Istanbul
+
+## Running in production
+
+```
+npm run prod
+```
+Run your application with foreverJs
