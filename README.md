@@ -10,13 +10,6 @@ Before going futher, lets setup the project evironment variables in:
 ./app/config/env
 ```
 
-## Running in production
-
-```
-npm run prod
-```
-Run your application with foreverJs
-
 ## App Structure
     .
     ├── ...
